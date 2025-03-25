@@ -1,0 +1,24 @@
+body * {
+	box-sizing: border-box;
+}
+.container {
+	width: 980px;
+	margin: 0 auto;
+}
+#contenido {
+	margin-bottom: 100px;
+}
+.box-anuncio {
+	float: left;
+	width: 24%;
+	text-align: center;
+	padding: 25px;
+	border: 3px solid #b1b1b1;
+	padding: 20px;
+	background-color: #f7f7f7;
+	border-radius: 10px;
+	margin: 0 0.5%;
+}
+.box-anuncio img {
+	width: 150px;
+}
